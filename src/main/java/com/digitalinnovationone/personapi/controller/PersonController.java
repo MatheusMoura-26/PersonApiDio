@@ -10,6 +10,6 @@ public class PersonController {
 
     @GetMapping
     public String getBook(){
-        return "Sofia não dá pra jogar hoje, tô fazendo um projeto de java que tenho que entragar até 00:00 mais amanhã é bem )";
+        return "API TEST )";
     }
 }
